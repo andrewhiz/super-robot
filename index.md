@@ -1,10 +1,10 @@
 ---
 title: Welcome to my blog
 ---
-#H1 Page for display
+# H1 Page for display
 **This is bold text**
->block quote texts here
-##H2 for display
+> block quote texts here
+## H2 for display
 1. First item
 2. Second item
 3. third
