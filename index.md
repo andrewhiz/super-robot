@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 # H1 Page for display
 **This is bold text**
 > block quote texts here
